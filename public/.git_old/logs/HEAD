@@ -1,0 +1,84 @@
+0000000000000000000000000000000000000000 72bbaeac5197a928348d33bc04b000ba85bec938 Sven-Dev <dev@reinheit-pur.de> 1712413676 +0200	commit (initial): [Wamp]-First-Commit
+72bbaeac5197a928348d33bc04b000ba85bec938 edc70c80273ef0011d2e3677606202f3d8ae8b4e Sven-Dev <dev@reinheit-pur.de> 1712419126 +0200	commit: Neue-Ansicht-mit-CTA-self-0
+edc70c80273ef0011d2e3677606202f3d8ae8b4e 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712485883 +0200	commit: last before change Theme-Colors
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712486363 +0200	checkout: moving from main to Overlay-Orange
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 4f98c646eb5576d3c1a57115a5fde38935737005 Sven-Dev <dev@reinheit-pur.de> 1712486678 +0200	commit: First-Color-Changes
+4f98c646eb5576d3c1a57115a5fde38935737005 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712486719 +0200	checkout: moving from Overlay-Orange to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 4f98c646eb5576d3c1a57115a5fde38935737005 Sven-Dev <dev@reinheit-pur.de> 1712486987 +0200	checkout: moving from main to Overlay-Orange
+4f98c646eb5576d3c1a57115a5fde38935737005 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712487778 +0200	checkout: moving from Overlay-Orange to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 4f98c646eb5576d3c1a57115a5fde38935737005 Sven-Dev <dev@reinheit-pur.de> 1712487787 +0200	checkout: moving from main to Overlay-Orange
+4f98c646eb5576d3c1a57115a5fde38935737005 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712491001 +0200	checkout: moving from Overlay-Orange to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 4f98c646eb5576d3c1a57115a5fde38935737005 Sven-Dev <dev@reinheit-pur.de> 1712491012 +0200	checkout: moving from main to Overlay-Orange
+4f98c646eb5576d3c1a57115a5fde38935737005 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712515686 +0200	checkout: moving from Overlay-Orange to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 4f98c646eb5576d3c1a57115a5fde38935737005 Sven-Dev <dev@reinheit-pur.de> 1712515741 +0200	checkout: moving from main to Overlay-Orange
+4f98c646eb5576d3c1a57115a5fde38935737005 d403bc38cf6a4fbc917220e2030a6f4d799db29c Sven-Dev <dev@reinheit-pur.de> 1712762538 +0200	commit: Änderungen an der "section-our-services-2"
+d403bc38cf6a4fbc917220e2030a6f4d799db29c 0d72372fbd86643f0372444d8ee4bc6fc12e05a2 Sven-Dev <dev@reinheit-pur.de> 1712844370 +0200	commit: Anpassung & Ergänzung an der Section: "elf section-direct-contact"
+0d72372fbd86643f0372444d8ee4bc6fc12e05a2 8a58c9d4577a672b9497d3af873db21058a218e9 Sven-Dev <dev@reinheit-pur.de> 1713127388 +0200	commit: BG-Images and start implementing lightbox
+8a58c9d4577a672b9497d3af873db21058a218e9 61446c2a8dc4e4f43771c13b5812211fab9c7bd0 Sven-Dev <dev@reinheit-pur.de> 1713622546 +0200	commit: Commit nach dem Einfügen der "Details-Funktionalitäten" incl. der Scroll-Funktionen für Section Our Services 1
+61446c2a8dc4e4f43771c13b5812211fab9c7bd0 50711727d61f0a5d64e4b8f658947798b180bd20 Sven-Dev <dev@reinheit-pur.de> 1713895549 +0200	commit: Setzen und einfügen der Details => Einfügen neuer h3 und p Elemente incl. dem Löschen bei close details
+50711727d61f0a5d64e4b8f658947798b180bd20 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737061 +0200	commit: Stand after including Calendar-Buttons
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737159 +0200	checkout: moving from Overlay-Orange to Orange-Overlay-New-Range-DSGVO-Commit
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737185 +0200	checkout: moving from Orange-Overlay-New-Range-DSGVO-Commit to Overlay-Orange
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737210 +0200	checkout: moving from Overlay-Orange to Orange-Overlay-New-Range-DSGVO-Commit
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737383 +0200	checkout: moving from Orange-Overlay-New-Range-DSGVO-Commit to Orange-Overlay-New-Range-DSGVO-Commit
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714737492 +0200	checkout: moving from Orange-Overlay-New-Range-DSGVO-Commit to Overlay-Orange
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739314 +0200	checkout: moving from Overlay-Orange to New-Feature-with-other-Range-of-Display
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739360 +0200	checkout: moving from New-Feature-with-other-Range-of-Display to Overlay-Orange
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739416 +0200	checkout: moving from Overlay-Orange to Overlay-Orange
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739481 +0200	checkout: moving from Overlay-Orange to New-Feature-with-other-Range-of-Display
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739560 +0200	checkout: moving from New-Feature-with-other-Range-of-Display to Overlay-Orange
+6f0ab193588bb08f84573d3c2846ccfba12f1945 50f8f7bf5a3f506c816088f7f6a621304962d561 Sven-Dev <dev@reinheit-pur.de> 1714739782 +0200	commit: Anpassung .gitignore
+50f8f7bf5a3f506c816088f7f6a621304962d561 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714739986 +0200	checkout: moving from Overlay-Orange to New-Feature-with-other-Range-of-Display
+6f0ab193588bb08f84573d3c2846ccfba12f1945 3747f52074a6056addfb7e56e612bee1b1486341 Sven-Dev <dev@reinheit-pur.de> 1714740348 +0200	commit: overly-consent-div-to-dislay-on-start
+3747f52074a6056addfb7e56e612bee1b1486341 50f8f7bf5a3f506c816088f7f6a621304962d561 Sven-Dev <dev@reinheit-pur.de> 1714740464 +0200	checkout: moving from New-Feature-with-other-Range-of-Display to Overlay-Orange
+50f8f7bf5a3f506c816088f7f6a621304962d561 3747f52074a6056addfb7e56e612bee1b1486341 Sven-Dev <dev@reinheit-pur.de> 1714740588 +0200	checkout: moving from Overlay-Orange to New-Feature-with-other-Range-of-Display
+3747f52074a6056addfb7e56e612bee1b1486341 50f8f7bf5a3f506c816088f7f6a621304962d561 Sven-Dev <dev@reinheit-pur.de> 1714740638 +0200	checkout: moving from New-Feature-with-other-Range-of-Display to Overlay-Orange
+50f8f7bf5a3f506c816088f7f6a621304962d561 7685761d4f6e6e7dc809af5a454aa6e3a7bab330 Sven-Dev <dev@reinheit-pur.de> 1714740686 +0200	commit: Anpassung-index.html
+7685761d4f6e6e7dc809af5a454aa6e3a7bab330 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1714740730 +0200	checkout: moving from Overlay-Orange to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 3747f52074a6056addfb7e56e612bee1b1486341 Sven-Dev <dev@reinheit-pur.de> 1714740900 +0200	checkout: moving from main to New-order-display-consent
+3747f52074a6056addfb7e56e612bee1b1486341 7685761d4f6e6e7dc809af5a454aa6e3a7bab330 Sven-Dev <dev@reinheit-pur.de> 1714740934 +0200	checkout: moving from New-order-display-consent to Overlay-Orange
+7685761d4f6e6e7dc809af5a454aa6e3a7bab330 0e8b551abb60d72792be7943611050307f533a60 Sven-Dev <dev@reinheit-pur.de> 1714741026 +0200	commit: reset and add class hidden to div.consent-info
+0e8b551abb60d72792be7943611050307f533a60 3747f52074a6056addfb7e56e612bee1b1486341 Sven-Dev <dev@reinheit-pur.de> 1714741043 +0200	checkout: moving from Overlay-Orange to New-order-display-consent
+3747f52074a6056addfb7e56e612bee1b1486341 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1714741331 +0200	checkout: moving from New-order-display-consent to main
+350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 80a86346e5cd46e4a658725610b8b30f1a200d1d Sven-Dev <dev@reinheit-pur.de> 1714741429 +0200	merge Overlay-Orange: Merge made by the 'ort' strategy.
+80a86346e5cd46e4a658725610b8b30f1a200d1d 3747f52074a6056addfb7e56e612bee1b1486341 Sven-Dev <dev@reinheit-pur.de> 1714741493 +0200	checkout: moving from main to New-order-display-consent
+3747f52074a6056addfb7e56e612bee1b1486341 9a461b460e28843abef7e2c4f9aafc64e52a6c0b Sven-Dev <dev@reinheit-pur.de> 1714743537 +0200	commit: Zwischenschritt
+9a461b460e28843abef7e2c4f9aafc64e52a6c0b 80a86346e5cd46e4a658725610b8b30f1a200d1d Sven-Dev <dev@reinheit-pur.de> 1714743547 +0200	checkout: moving from New-order-display-consent to main
+80a86346e5cd46e4a658725610b8b30f1a200d1d 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714743887 +0200	reset: moving to 6f0ab193588bb08f84573d3c2846ccfba12f1945
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714744102 +0200	checkout: moving from main to test1
+6f0ab193588bb08f84573d3c2846ccfba12f1945 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714744147 +0200	checkout: moving from test1 to main
+6f0ab193588bb08f84573d3c2846ccfba12f1945 09177faa9a3e3cf8e97679dfe75754373b4a3e1f Sven-Dev <dev@reinheit-pur.de> 1714744707 +0200	commit: Commit-nach-delete-Overlay-Orange-Branch
+09177faa9a3e3cf8e97679dfe75754373b4a3e1f cf6cc8168edeb5833602cf9ad7da0faaa9366b3f Sven-Dev <dev@reinheit-pur.de> 1714744930 +0200	pull --tags jobLandingPage_on_www_on_wamp main: Merge made by the 'ort' strategy.
+cf6cc8168edeb5833602cf9ad7da0faaa9366b3f a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1714745417 +0200	commit: Restore-package.json
+a4fe5b187ef3b65322389c55766b8e388131c7d2 a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1714745711 +0200	checkout: moving from main to feature-calendar-button
+a4fe5b187ef3b65322389c55766b8e388131c7d2 d53b7f5070ebb8e77007fd96852dff533ad0aee6 Sven-Dev <dev@reinheit-pur.de> 1714812008 +0200	commit: Calender-Buttons are Ready to use
+d53b7f5070ebb8e77007fd96852dff533ad0aee6 c1ab30c05e13faf12325dd7585442662414dc350 Sven-Dev <dev@reinheit-pur.de> 1714816147 +0200	commit: Bereinigung doppelte Headline und Gestaltung .cta-top
+c1ab30c05e13faf12325dd7585442662414dc350 b8f7cdb5957d6c122519f8ea17afbd9aa5cd9d30 Sven-Dev <dev@reinheit-pur.de> 1716016114 +0200	commit: Vor Start des Umabaus der Section About us 2
+b8f7cdb5957d6c122519f8ea17afbd9aa5cd9d30 62f62a28e9de782301b2d7e5fd447b737f3b2d9b Sven-Dev <dev@reinheit-pur.de> 1716198217 +0200	commit: Einfügen des Bildes (HH) und des Logos in diesem Bild
+62f62a28e9de782301b2d7e5fd447b737f3b2d9b 782352dee3aa218b76cafcfc5c7ca097bfd7337a Sven-Dev <dev@reinheit-pur.de> 1716838894 +0200	pull --tags jobLandingPage_on_www_on_wamp feature-calendar-button: Fast-forward
+782352dee3aa218b76cafcfc5c7ca097bfd7337a 9cc6e5f398958148c33458a2f196bb31b170a0c4 Sven-Dev <dev@reinheit-pur.de> 1718628505 +0200	commit: Anpassung Section Facts 2
+9cc6e5f398958148c33458a2f196bb31b170a0c4 b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1718628589 +0200	commit: Anpassung Section Facts 2 / 2
+b51f1d83fc62fa3ffc011afcd7a005a79d84a681 a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1718628604 +0200	checkout: moving from feature-calendar-button to main
+a4fe5b187ef3b65322389c55766b8e388131c7d2 b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1718628626 +0200	checkout: moving from main to feature-calendar-button
+b51f1d83fc62fa3ffc011afcd7a005a79d84a681 a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1718628681 +0200	checkout: moving from feature-calendar-button to main
+a4fe5b187ef3b65322389c55766b8e388131c7d2 a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1718628775 +0200	checkout: moving from main to main
+a4fe5b187ef3b65322389c55766b8e388131c7d2 b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1718628901 +0200	merge feature-calendar-button: Fast-forward
+b51f1d83fc62fa3ffc011afcd7a005a79d84a681 b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1718629040 +0200	checkout: moving from main to forms-implementing
+b51f1d83fc62fa3ffc011afcd7a005a79d84a681 3fbb68b76b737094677edb71be743fadc8088c6e Sven-Dev <dev@reinheit-pur.de> 1720555027 +0200	commit: Zwischenstand nach Umstelleung der Pfade und Einfügen des Bewerbungs-Formulars
+3fbb68b76b737094677edb71be743fadc8088c6e 5d06ecb61eaeced2a1afc889978582371bb4ec57 Sven-Dev <dev@reinheit-pur.de> 1722671035 +0200	commit: Vor Umstellung des Bewerbungsformulars
+5d06ecb61eaeced2a1afc889978582371bb4ec57 9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda Sven-Dev <dev@reinheit-pur.de> 1723562531 +0200	commit: Vorläufige Endversion 2024-08-13
+9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1723562597 +0200	checkout: moving from forms-implementing to main
+b51f1d83fc62fa3ffc011afcd7a005a79d84a681 9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda Sven-Dev <dev@reinheit-pur.de> 1723562686 +0200	checkout: moving from main to forms-implementing
+9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 Sven-Dev <dev@reinheit-pur.de> 1723986958 +0200	commit: Korrigiert vorläufige Endversion nach Anpassung des Dialog-Fenster
+4890cbdd1843de9655c0008c8c5a0e7b6bdee471 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 Sven-Dev <dev@reinheit-pur.de> 1724416940 +0200	reset: moving to 4890cbdd1843de9655c0008c8c5a0e7b6bdee471
+4890cbdd1843de9655c0008c8c5a0e7b6bdee471 9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda Sven-Dev <dev@reinheit-pur.de> 1724417847 +0200	reset: moving to 9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda
+9553c4ff04a3cd2b80ed3241a1d81f4cf6e51bda 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 Sven-Dev <dev@reinheit-pur.de> 1724417906 +0200	reset: moving to 4890cbdd1843de9655c0008c8c5a0e7b6bdee471
+4890cbdd1843de9655c0008c8c5a0e7b6bdee471 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 Sven-Dev <dev@reinheit-pur.de> 1724419856 +0200	checkout: moving from forms-implementing to 4890cbdd1843de9655c0008c8c5a0e7b6bdee471
+4890cbdd1843de9655c0008c8c5a0e7b6bdee471 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 Sven-Dev <dev@reinheit-pur.de> 1724419922 +0200	checkout: moving from 4890cbdd1843de9655c0008c8c5a0e7b6bdee471 to forms-implementing
+4890cbdd1843de9655c0008c8c5a0e7b6bdee471 611bd1d3ecd0574309e93e3ad42b364969f82494 Sven-Dev <dev@reinheit-pur.de> 1724421682 +0200	commit: Neuer Commit nach Rücksetzen auf 13.08.2023
+611bd1d3ecd0574309e93e3ad42b364969f82494 daa9bb65e5750bf12c1567e8c922c150c8b33084 Sven-Dev <dev@reinheit-pur.de> 1724768365 +0200	commit: Vorläufige Fertigstellun am 27.08.2024 -> V2 -> Mit Kommentaren
+daa9bb65e5750bf12c1567e8c922c150c8b33084 5bcc6ec59734deda66657ead6efd4b9003916620 Sven-Dev <dev@reinheit-pur.de> 1724768411 +0200	commit: 2. Commit nach vorläufiger Fertigstellung am 27.08.2024
+5bcc6ec59734deda66657ead6efd4b9003916620 c1607ca45f431816a6c0bb0142f2b5537d9ea332 Sven-Dev <dev@reinheit-pur.de> 1724854152 +0200	commit: Commit nach EInbau der Ampel
+c1607ca45f431816a6c0bb0142f2b5537d9ea332 8f57e46a180155b9059c01610c9f8ba7855cd21d Sven-Dev <dev@reinheit-pur.de> 1725459640 +0200	commit: Commit 2024-09-04 nach weitren Korrekturen
+8f57e46a180155b9059c01610c9f8ba7855cd21d 67ea5ca45c29d886cd889dbd56f40af1323d3f73 Sven <xanergie@gmail.com> 1742915166 +0100	commit: Stand 25-03-2025
+67ea5ca45c29d886cd889dbd56f40af1323d3f73 48077b7418f4682fa596dd01894439c597059e71 Sven <xanergie@gmail.com> 1743086276 +0100	commit: Stand 27-03-2025-15-37

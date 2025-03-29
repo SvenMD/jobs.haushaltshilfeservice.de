@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "jobLandingPage_on_www_on_wamp"]
+	url = https://github.com/SvenMD/jobLandingPage_on_www_on_wamp.git
+	fetch = +refs/heads/*:refs/remotes/jobLandingPage_on_www_on_wamp/*
+[branch "main"]
+	remote = jobLandingPage_on_www_on_wamp
+	merge = refs/heads/main
+[branch "feature-calendar-button"]
+	vscode-merge-base = jobLandingPage_on_www_on_wamp/main
+	remote = jobLandingPage_on_www_on_wamp
+	merge = refs/heads/feature-calendar-button
+[branch "forms-implementing"]
+	vscode-merge-base = jobLandingPage_on_www_on_wamp/main
+	remote = jobLandingPage_on_www_on_wamp
+	merge = refs/heads/forms-implementing

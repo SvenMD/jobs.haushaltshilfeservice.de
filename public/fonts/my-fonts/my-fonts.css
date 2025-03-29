@@ -1,0 +1,110 @@
+/* Diese Datei ersetzt den Import der Fonts von Google aus Zeile 10 der css-assets.css in Zeile 10
+* der Link lautete: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Titillium+Web:wght@200;600&display=swap"; */
+/* open-sans-regular - latin */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("my-fonts-import/open-sans-v40-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* open-sans-700 - latin */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("my-fonts-import/open-sans-v40-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* open-sans-regular - latin_symbols */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("my-fonts-import/open-sans-v40-latin_symbols-regular.woff2")
+		format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* open-sans-700 - latin_symbols */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("my-fonts-import/open-sans-v40-latin_symbols-700.woff2")
+		format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* open-sans-regular - latin-ext */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("my-fonts-import/open-sans-v40-latin-ext-regular.woff2")
+		format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* open-sans-700 - latin-ext */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("my-fonts-import/open-sans-v40-latin-ext-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* open-sans-regular - math */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("my-fonts-import/open-sans-v40-math-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* open-sans-700 - math */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("my-fonts-import/open-sans-v40-math-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* my-fonts/my-fonts-import/ */
+
+/* titillium-web-200 - latin */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Titillium Web";
+	font-style: normal;
+	font-weight: 200;
+	src: url("my-fonts-import/titillium-web-v17-latin-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* titillium-web-600 - latin */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Titillium Web";
+	font-style: normal;
+	font-weight: 600;
+	src: url("my-fonts-import/titillium-web-v17-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* titillium-web-200 - latin_latin-ext */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Titillium Web";
+	font-style: normal;
+	font-weight: 200;
+	src: url("my-fonts-import/titillium-web-v17-latin_latin-ext-200.woff2")
+		format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* titillium-web-600 - latin_latin-ext */
+@font-face {
+	font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+	font-family: "Titillium Web";
+	font-style: normal;
+	font-weight: 600;
+	src: url("my-fonts-import/titillium-web-v17-latin_latin-ext-600.woff2")
+		format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

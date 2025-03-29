@@ -1,0 +1,21 @@
+{
+	"name": "html---e1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"compile-css-assets": "sass --watch scss/css-assets.scss css/css-assets.css",
+		"compile-variables": "sass scss/_variables.scss",
+		"compile-helpers": "sass scss/css-helpers.scss css/css-helpers.css",
+		"compile-style": "sass scss/style.scss css/style.css --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"sass": "^1.72.0"
+	},
+	"dependencies": {
+		"fs": "^0.0.1-security"
+	}
+}
