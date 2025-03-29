@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 72bbaeac5197a928348d33bc04b000ba85bec938 Sven-Dev <dev@reinheit-pur.de> 1712413676 +0200	commit (initial): [Wamp]-First-Commit
-72bbaeac5197a928348d33bc04b000ba85bec938 edc70c80273ef0011d2e3677606202f3d8ae8b4e Sven-Dev <dev@reinheit-pur.de> 1712419126 +0200	commit: Neue-Ansicht-mit-CTA-self-0
-edc70c80273ef0011d2e3677606202f3d8ae8b4e 350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 Sven-Dev <dev@reinheit-pur.de> 1712485883 +0200	commit: last before change Theme-Colors
-350d5b5d46dd9f1af60dba38fba6ed6f8a6b39c9 80a86346e5cd46e4a658725610b8b30f1a200d1d Sven-Dev <dev@reinheit-pur.de> 1714741429 +0200	merge Overlay-Orange: Merge made by the 'ort' strategy.
-80a86346e5cd46e4a658725610b8b30f1a200d1d 6f0ab193588bb08f84573d3c2846ccfba12f1945 Sven-Dev <dev@reinheit-pur.de> 1714743887 +0200	reset: moving to 6f0ab193588bb08f84573d3c2846ccfba12f1945
-6f0ab193588bb08f84573d3c2846ccfba12f1945 09177faa9a3e3cf8e97679dfe75754373b4a3e1f Sven-Dev <dev@reinheit-pur.de> 1714744707 +0200	commit: Commit-nach-delete-Overlay-Orange-Branch
-09177faa9a3e3cf8e97679dfe75754373b4a3e1f cf6cc8168edeb5833602cf9ad7da0faaa9366b3f Sven-Dev <dev@reinheit-pur.de> 1714744930 +0200	pull --tags jobLandingPage_on_www_on_wamp main: Merge made by the 'ort' strategy.
-cf6cc8168edeb5833602cf9ad7da0faaa9366b3f a4fe5b187ef3b65322389c55766b8e388131c7d2 Sven-Dev <dev@reinheit-pur.de> 1714745417 +0200	commit: Restore-package.json
-a4fe5b187ef3b65322389c55766b8e388131c7d2 b51f1d83fc62fa3ffc011afcd7a005a79d84a681 Sven-Dev <dev@reinheit-pur.de> 1718628901 +0200	merge feature-calendar-button: Fast-forward
