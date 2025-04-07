@@ -6711,6 +6711,7 @@ span.under-button-to-call-appointment {
 dialog {
   padding: 0;
   border-radius: 1.5rem;
+  max-width: 37.5em;
 }
 dialog > p {
   padding: 0 20px;

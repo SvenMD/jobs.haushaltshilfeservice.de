@@ -232,11 +232,8 @@ function observeElement(element, callback) {
 	observer.observe(element); // Das zu beobachtende Element angeben
 }
 
-// Beispielanwendung
-const elementToObserve = document.querySelector("#section-clients-1"); // Element, das Sie beobachten möchten
+const elementToObserve = document.querySelector("#section-clients-1");
 
-// Beispiel Gemini
-//This code will check if the DIV element with ID "my-div" has the class "my-class" and log the result to the console.
 // Überprüfung nach Click
 function classShow() {
 	const divElement = document.querySelector(".consent-info");
@@ -249,8 +246,6 @@ function classShow() {
 const divElement = document.querySelector(".consent-info");
 const classList = divElement.classList;
 const hasSpecificClass = classList.contains("hidden");
-//console.log(`Element has class "hidden": ${hasSpecificClass}`);
-//Ende Beispiel Gemini
 
 observeElement(elementToObserve, () => {
 	// console.log("Element hat den Viewport vollständig verlassen!"); // Event-Handler-Funktion
@@ -258,10 +253,8 @@ observeElement(elementToObserve, () => {
 
 // Buttonbreite der Action-Buttons in den Artikeln anpassen
 let arrayFirstButtons = Array.from(document.querySelectorAll(".cta-button"));
-// onsole.log(arrayFirstButtons);
 
 let arraySecondButtons = Array.from(document.querySelectorAll(".rr-button"));
-// console.log(arraySecondButtons);
 
 for (let i = 0; i < arrayFirstButtons.length; i++) {
 	let widthArrayFirstCtaButtons = arrayFirstButtons[i].offsetWidth + "px";
