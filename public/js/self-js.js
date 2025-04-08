@@ -18,9 +18,9 @@ function removeHeadingDetails() {
 	//Wenn vorhanden löschen
 	if (headingDetailsOne) {
 		headingDetailsOne.parentNode.removeChild(headingDetailsOne);
-	} else {
+	} /*  else {
 		console.log("keine Ergebinsse");
-	}
+	} */
 }
 
 function removeParagraphDetails() {
@@ -29,9 +29,9 @@ function removeParagraphDetails() {
 	//Wenn vorhanden löschen
 	if (paraDetailsOne) {
 		paraDetailsOne.parentNode.removeChild(paraDetailsOne);
-	} else {
+	} /* else {
 		console.log("keine Ergebinsse");
-	}
+	} */
 }
 //Entfernen evt. bestehender h3.details-heading-1
 /* Alternative, getrennt Schreibweise ohne Arrow-Function wäre auch : */
@@ -283,7 +283,7 @@ rrDialogContent.addEventListener("click", (event) => {
 	}
 });
 
-//* copieMail
+//* copieMail RR
 const mailSpan = document.querySelector("#copieMail");
 const mailInput = document.querySelector("#cs1Email");
 
@@ -296,6 +296,22 @@ const changeContent = function () {
 };
 
 mailInput.addEventListener("change", changeContent);
+
+
+//* copieMail Bewerbung
+const mailSpanBewerbung = document.querySelector("#copiemail-bewerbung");
+const mailInputBewerbung = document.querySelector("#cs2Email");
+
+const changeContentBewerbung = function () {
+	if (mailInputBewerbung.value) {
+		mailSpanBewerbung.textContent = ` an ${mailInputBewerbung.value} `;
+	} else {
+		mailSpanBewerbung.textContent = "";
+	}
+};
+
+mailInputBewerbung.addEventListener("change", changeContentBewerbung);
+
 
 //* Ampelstatus
 
