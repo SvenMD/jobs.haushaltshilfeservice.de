@@ -88,7 +88,7 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = $formName . " von " . $name . " an Karin Guth";
+    $mail->Subject = $formName . " über die Job-Page von " . $name . " an Karin Guth";
     $mail->Body    = $bodyText;
     $mail->AltBody = $bodyTextNonHtml;
 
