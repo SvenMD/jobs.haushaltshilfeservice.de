@@ -1,6 +1,5 @@
 "use strict";
 
-
   const errorParagraph = document.querySelector("#errorReCaptcha").firstElementChild;
   console.log(errorParagraph);
   const divReCaptcha = document.querySelector("#recaptcha");
