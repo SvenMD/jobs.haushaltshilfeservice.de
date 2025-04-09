@@ -152,7 +152,9 @@ function cs2SubmitForm() {
 			"&cs2Videocall=" +
 			cta_19 +
 			"&cs2Datenschutz=" +
-			ds,
+			ds +
+			"&cs2Recaptcha=" +
+			grecaptcha.getResponse(),
 		success: function (s) {
 			// hier wird die Rückgabe des PHP-Scripts verarbeitet und bei Rückgabe von success wird cs2Success() ausgeführt
 			"success" == s ? cs2Success() : (cs2Error(), cs2SubmitMSG(!1, s));

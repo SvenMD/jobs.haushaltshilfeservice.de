@@ -43,9 +43,13 @@
 			href="images/general-elements/favicon/android-icon-192x192.png"
 		/>
 
+		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 		<!-- Title
 	============================================= -->
 		<title>Karin Guth</title>
+
+
 	</head>
 
 	<body class="homepage">
@@ -1516,6 +1520,13 @@
 														<option value="Ja, ich habe die Datenschutzerklärung gelesen und meine Rechte verstanden">Ja, ich habe die Datenschutzerklärung gelesen und meine Rechte verstanden</option>
 													</select>
 												</div>
+
+												<div class="form-group g-recaptcha" id="recaptcha" name="recaptcha" data-sitekey="6LfXxxArAAAAALTuu5G3jicDLSnD1iGI5-gauTsl"></div>
+
+												<div class="form-group" id="errorReCaptcha">
+													<p></p>
+												</div>
+
 												<!-- .form-group end -->
 												<div class="form-group">
 													<input
@@ -1607,6 +1618,7 @@
 		<script src="js/functions.js"></script>
 		<script src="js/self-js.js"></script>
 		<script src="js/self-js-forms.js"></script> 
+		<script src="js/validate_reCaptcha_Cta2.js"></script>
 		<script src="js/validateFormRr.js"></script>
 		<script src="js/validateFormCta.js"></script>
 	</body>

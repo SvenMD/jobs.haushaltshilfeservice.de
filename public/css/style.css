@@ -6771,6 +6771,24 @@ dialog::backdrop {
   background-color: rgb(255, 255, 255);
 }
 
+#recaptcha.captcha-error {
+  border-radius: 0.3125em;
+  box-shadow: 0 0 0 2px #f33;
+  background: #fff;
+}
+
+#errorReCaptcha {
+  margin: 0 0 1.25em 0;
+}
+#errorReCaptcha p {
+  display: block;
+  margin: 5px 0 0;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 400;
+  color: #f33;
+}
+
 .ampel-container {
   width: 100%;
   display: flex;

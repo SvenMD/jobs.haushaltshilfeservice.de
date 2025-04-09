@@ -28,12 +28,36 @@ $lohnvorstellung_art_der_angabe = $_POST["cs2lohnangabe"];
 $lohnvorstellung_hoehe_monatsbrutto = $_POST["cs2Monatsbrutto"];
 $lohnvorstellung_hoehe_stundenlohn = $_POST["cs2Stundenlohnangabe"];
 $videocall = $_POST["cs2Videocall"];
-$bestaetigung_datenschutz = $_POST["cs2Datenschutz"];
+$bestaetigung_datenschutz = $_POST['cs2Datenschutz'];
+$setReCaptcha = $_POST["cs2Recaptcha"];
+
+
+/* var_dump($_POST);
+echo "RESPOSE = ".$setReCaptcha; */
+
+// Verify reCaptcha
+// Get user's response and your site key
+$response = $_POST['cs2Recaptcha'];
+$secret = '6LfXxxArAAAAAEQ7RzABXaIBhttxgj2oVQz5InBU';
+
+// Verify the user's response
+$verify = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={$secret}&response={$response}");
+$captcha_success = json_decode($verify);
+
+if (!$captcha_success->success) {
+    // handle your request here
+    echo "Bitte bestätigen Sie am Ende des Formulars, dass dieses Formular nicht von einem Roboter abgesendet wurde.<br>Vielen Dank für Ihre Mühe";
+    exit;
+} 
+
+
 
 if (empty($anrede) || empty($name)  || empty($plz)  || empty($email)  || empty($rueckruf)  || empty($bewerbungsgrund)  || empty($zeitspanne_moeglicher_beginn)  || empty($fuehrungszeugnis)  || empty($bestaetigung_datenschutz)  ) {
   echo "Es wurden nicht alle Pflichtfelder übermittelt";
   exit;
 }
+
+
 
 $formValues = array(
   "Formular" => $formName,
