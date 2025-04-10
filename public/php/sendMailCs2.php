@@ -38,7 +38,7 @@ echo "RESPOSE = ".$setReCaptcha; */
 // Verify reCaptcha
 // Get user's response and your site key
 $response = $_POST['cs2Recaptcha'];
-$secret = '6LfXxxArAAAAAEQ7RzABXaIBhttxgj2oVQz5InBU';
+$secret = 'inser_the_secret_key';
 
 // Verify the user's response
 $verify = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={$secret}&response={$response}");
